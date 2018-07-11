@@ -340,7 +340,7 @@ section {
 /*////////// DETAILS //////////*/
 
 #details {
-  border
+  border-top: 1px solid white;
 }
 
 #details div {
