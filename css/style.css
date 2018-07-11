@@ -77,7 +77,6 @@ img, video, audio, iframe, table, form {
 .col-2 {
   float: left;
   width: 66%;
-  background: #ccc;
 }
 
 .col-3 {
